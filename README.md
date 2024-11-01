@@ -4,12 +4,6 @@
   
   This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Contents
-- [About](https://github.com/AriffKha/Ariff-Khairuddin-CV/edit/main/README.md#about)
-- [Work Employment](https://github.com/AriffKha/Ariff-Khairuddin-CV/edit/main/README.md#work-employment)
-- [Education](https://github.com/AriffKha/Ariff-Khairuddin-CV/edit/main/README.md#education)
-- [Certifications](https://github.com/AriffKha/Ariff-Khairuddin-CV/edit/main/README.md#certifications)
-
 ## Work Employment
 
 Data Analyst - Rise of Kingdoms Community (March 2020 - Now)
